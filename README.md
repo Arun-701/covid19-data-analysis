@@ -1,12 +1,15 @@
-COVID-19-Dashboard/
-│
-├── Covid_Dashboard.ipynb
-├── README.md
-├── images/
-│   ├── top_cases.png
-│   ├── death_rate.png
-│   ├── daily_cases.png
-│   └── total_deaths.png
-│
-└── dataset/
-    └── covid_data.csv
+### Top 15 Countries by Total COVID-19 Cases
+
+![Top Cases](images/top_cases.png)
+
+### Top 20 Countries by Death Rate (%)
+
+![Death Rate](images/death_rate.png)
+
+### Daily New COVID-19 Cases (Last 150 Days)
+
+![Daily Cases](images/daily_cases.png)
+
+### Top 15 Countries by Total Deaths
+
+![Total Deaths](images/total_deaths.png)
