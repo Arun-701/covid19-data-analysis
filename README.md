@@ -1,19 +1,13 @@
-🦠 My COVID-19 Dashboard is LIVE on GitHub! 
+## 📊 Dashboard Screenshots
 
-Just launched an interactive data visualization project showing real-time 
-COVID-19 statistics from 200+ countries.
+### Chart 1: Top Countries by Cases
+![Top Countries](https://raw.githubusercontent.com/YOUR-USERNAME/covid-19-dashboard/main/newplot__1_.png)
 
-The dashboard features:
-✅ 6 interactive visualizations
-✅ Real-time data updates
-✅ Country comparison tools
-✅ 150-day trend analysis
-✅ Death rate analysis
-✅ Works in Google Colab (no setup!)
+### Chart 2: Death Rate Analysis
+![Death Rate](https://raw.githubusercontent.com/YOUR-USERNAME/covid-19-dashboard/main/newplot__2_.png)
 
-Check out the dashboard:
-🔗 GitHub: https://github.com/YOUR-USERNAME/covid-19-dashboard
+### Chart 3: Daily New Cases
+![Daily Cases](https://raw.githubusercontent.com/YOUR-USERNAME/covid-19-dashboard/main/newplot__3_.png)
 
-Built with Python • Pandas • Plotly • REST APIs
-
-#DataScience #Python #GitHub #COVID19 #DataVisualization #InternshipProject
+### Chart 4: Top Countries by Deaths
+![Deaths](https://raw.githubusercontent.com/YOUR-USERNAME/covid-19-dashboard/main/newplot.png)
