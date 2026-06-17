@@ -81,4 +81,4 @@ This dashboard helps understand the global impact of COVID-19 and provides insig
 
 ## Author
 
-**Arun Kumar**
+**ArunKumar**
